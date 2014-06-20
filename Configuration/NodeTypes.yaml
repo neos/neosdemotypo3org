@@ -213,6 +213,7 @@
       groups:
         'video':
           label: Video
+          position: 50
   properties:
     'video':
       type: string
