@@ -2977,7 +2977,7 @@
        <lastModificationDateTime __type="object" __classname="DateTime">2015-12-21T21:55:16+01:00</lastModificationDateTime>
        <lastPublicationDateTime __type="object" __classname="DateTime">2015-12-21T21:55:16+01:00</lastPublicationDateTime>
        <properties>
-        <title __type="string">&lt;h1&gt;Opret fremragende indhold.&lt;br/&gt;&lt;/h1&gt;</title>
+        <title __type="string">&lt;h1&gt;Skab fremragende indhold.&lt;br/&gt;&lt;/h1&gt;</title>
        </properties>
       </variant>
       <variant sortingIndex="100" workspace="live" nodeType="TYPO3.Neos.NodeTypes:Headline" version="3" removed="" hidden="" hiddenInIndex="">
