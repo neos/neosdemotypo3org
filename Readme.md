@@ -1,0 +1,1 @@
+This package is ***deprecated***. Please use the package [Neos.Demo](https://github.com/neos/Neos.Demo) instead.
